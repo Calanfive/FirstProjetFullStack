@@ -15,4 +15,3 @@ app.get('/hello/:nom', (req, res) => {
 ViteExpress.listen(app, port, () =>
   console.log("Server is listening on port " + port + "...")
 );
-
