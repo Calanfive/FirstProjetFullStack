@@ -15,7 +15,7 @@
 6 - Créez un point d'API /hello/:nom qui renvoie Bonjour avec le nom passé en paramètre
 7 - Créez un fichier xxxx.http et tester votre API avec l'extension REST Client de VSCode
 8 - Créez un champ de saisie et un bouton qui permettent de saisir un nom et d'afficher le résultat de l'API dans une balise p en dessous du bouton
-
+++ - Créer 2 input pour affichage random/between 2 nombres min max
 ## Bonus
 
 1 - Créer un fichier hellos.json qui contient un tableau des noms saisies par l'utilisateur
